@@ -1,0 +1,6 @@
+#rootPane{
+	
+	-fx-background-image: url("rootPaneBackgroundImg.jpg");
+	-fx-background-repeat: no-repeat; 
+	-fx-background-size: cover;
+}
