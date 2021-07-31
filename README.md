@@ -1,2 +1,10 @@
 # Chat-Application
-Chat-Application made using Java and JavaFX
+A simple Chat-Application which implements websockets, made using Java and JavaFX. 
+
+### Purpose 
+This application was built to gain experience building websockets. Websockets are application protocols that provide bi-directional communication between client and server models and is mainly used in chat applications and multiplayer video games. 
+
+![Client Window](/screenshots/client_window_s1.png)
+
+
+![Server Window](/screenshots/server_window_s1.png)
